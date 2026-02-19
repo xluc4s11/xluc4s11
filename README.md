@@ -18,11 +18,11 @@ Meu foco é construir arquiteturas robustas e escaláveis para planejamento de r
 ### 🛠️ Stack Tecnológica
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AdvPL-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="AdvPL" />
-  <img src="https://img.shields.io/badge/TLPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="TLPP" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://tdn.totvs.com/display/tec/AdvPL"><img src="https://img.shields.io/badge/AdvPL-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="AdvPL" /></a>
+  <a href="https://tdn.totvs.com/display/tec/TLPP"><img src="https://img.shields.io/badge/TLPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="TLPP" /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /></a>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
 ---
@@ -40,13 +40,6 @@ Embora a maioria dos meus repositórios sejam privados para garantir a confidenc
     - **Fábrica de Software & Customizações:** Extensões e Regras de Negócio Personalizadas.
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xluc4s11&show_icons=true&theme=gotham&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de xluc4s11" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xluc4s11&layout=compact&theme=gotham&count_private=true&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
-</p>
 
 ---
 
