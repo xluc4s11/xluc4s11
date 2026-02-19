@@ -1,7 +1,7 @@
 
 # Olá, eu sou Lucas Almeida! 👋
 
-Sou um **Arquiteto de Soluções** especializado em **AdvPL/TLPP**, **Protheus ERP** e **Automação Corporativa**, atualmente impulsionando a inovação na **RCA Soluções**.
+Sou um **Arquiteto de Soluções** especializado em **AdvPL/TLPP**, **Protheus ERP** e **Automação Corporativa**, atualmente impulsionando a inovação em **Grandes Projetos Corporativos**.
 
 ---
 
@@ -33,11 +33,11 @@ Embora a maioria dos meus repositórios sejam privados para garantir a confidenc
 
 - **🔐 Governança ERP Corporativa:** Repositório centralizado definindo padrões de código (`.editorconfig`, `rules`), pipelines de CI/CD e regras de linter automatizadas para todo o ecossistema.
 - **🏗️ Projetos Satélites:**
-    - **ProjetoGLT:** Gestão de ERP Corporativo.
-    - **ProjetoMN:** Soluções de RH e Gestão de Pessoas.
-    - **ProjetoMSL:** Logística Avançada e Cadeia de Suprimentos.
-    - **ProjetoTSM:** Gestão de Serviços e Contratos.
-    - **ProjetoTSZ:** Extensões de Regras de Negócio Personalizadas.
+    - **ERP Varejo & Corporativo:** Gestão de ERP Corporativo.
+    - **Soluções de RH & DP:** Soluções de RH e Gestão de Pessoas.
+    - **Logística & Supply Chain:** Logística Avançada e Cadeia de Suprimentos.
+    - **Gestão de Serviços:** Gestão de Serviços e Contratos.
+    - **Fábrica de Software & Customizações:** Extensões e Regras de Negócio Personalizadas.
 
 ---
 
@@ -51,5 +51,5 @@ Embora a maioria dos meus repositórios sejam privados para garantir a confidenc
 ---
 
 <p align="center">
-  <sub>Ambiente de execução autorizado para <b>RCA Soluções</b></sub>
+  <sub>Ambiente de Governança & Arquitetura Privada</sub>
 </p>
